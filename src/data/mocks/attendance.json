@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2024-02-01",
+        "present": 450,
+        "absent": 12,
+        "late": 5,
+        "total": 467
+    },
+    {
+        "date": "2024-02-02",
+        "present": 455,
+        "absent": 8,
+        "late": 4,
+        "total": 467
+    },
+    {
+        "date": "2024-02-05",
+        "present": 448,
+        "absent": 15,
+        "late": 4,
+        "total": 467
+    },
+    {
+        "date": "2024-02-06",
+        "present": 460,
+        "absent": 5,
+        "late": 2,
+        "total": 467
+    },
+    {
+        "date": "2024-02-07",
+        "present": 462,
+        "absent": 3,
+        "late": 2,
+        "total": 467
+    }
+]

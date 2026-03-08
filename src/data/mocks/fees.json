@@ -1,0 +1,23 @@
+[
+    {
+        "id": "FEE-T1-2025",
+        "title": "1st Term Tuition 2024/2025",
+        "amount": 150000,
+        "dueDate": "2024-09-15",
+        "description": "Tuition fee for the first term of the 2024/2025 academic session."
+    },
+    {
+        "id": "FEE-BUS-2025",
+        "title": "School Bus Service (Term 1)",
+        "amount": 45000,
+        "dueDate": "2024-09-15",
+        "description": "Optional school bus service fee."
+    },
+    {
+        "id": "FEE-UNI-2025",
+        "title": "Uniform & Books",
+        "amount": 35000,
+        "dueDate": "2024-09-01",
+        "description": "Standard uniform set and textbooks."
+    }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "STU-001",
+    "firstName": "Chioma",
+    "lastName": "Adebayo",
+    "class": "JSS 2",
+    "guardian": "Mrs. Adebayo",
+    "contact": "08012345678",
+    "status": "Active",
+    "balance": 0
+  },
+  {
+    "id": "STU-002",
+    "firstName": "Musa",
+    "lastName": "Ibrahim",
+    "class": "SS 1",
+    "guardian": "Mr. Ibrahim",
+    "contact": "08087654321",
+    "status": "Active",
+    "balance": 45000
+  },
+  {
+    "id": "STU-003",
+    "firstName": "Emeka",
+    "lastName": "Okonkwo",
+    "class": "JSS 1",
+    "guardian": "Dr. Okonkwo",
+    "contact": "09011223344",
+    "status": "Inactive",
+    "balance": 120000
+  },
+  {
+    "id": "STU-004",
+    "firstName": "Aisha",
+    "lastName": "Bello",
+    "class": "SS 2",
+    "guardian": "Hajia Bello",
+    "contact": "07055667788",
+    "status": "Active",
+    "balance": 0
+  }
+]
